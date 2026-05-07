@@ -34,7 +34,7 @@ Nexora is a full‑stack, production‑style e‑commerce store with a clean, re
   - Payment method: Cash on Delivery (radio button)
 - Order confirmation page
 - Pages: About, Contact, FAQ
-- Footer with contact info
+- Footer with contact info and **Admin** button/link to admin login
 - WhatsApp floating icon (bottom‑right) with bounce animation
 
 ### 5.2 Admin Features
